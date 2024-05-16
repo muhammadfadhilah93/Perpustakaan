@@ -1,2 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="screenshot/1.png" width="400" alt="Laravel Logo"></a></p>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="screenshot/2.png" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">HASIL SCREENSHOT</h1>
+
+<h1>Foto 1</h1>
+
+![Alt text](https://github.com/muhammadfadhilah93/Perpustakaan/blob/main/screenshot/1.PNG)
+
+<h1>Foto 2</h1>
+
+![Alt text](https://github.com/muhammadfadhilah93/Perpustakaan/blob/main/screenshot/2.PNG)
